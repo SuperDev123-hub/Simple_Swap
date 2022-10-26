@@ -243,14 +243,24 @@ const GÖRLICoins = [
 
 const MumbaiCoins = [
   {
-    name: "Ether",
-    abbr: "ETH",
+    name: "Matic",
+    abbr: "WMATIC",
     address: "", // Weth address is fetched from the router
   },  
   {
     name: "Tether USD",
     abbr: "USDT",
     address: "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
+  },
+  {
+    name: "USD Coin",
+    abbr: "USDC",
+    address: "0xe6b8a5CF854791412c1f6EFC7CAf629f5Df1c747",
+  },
+  {
+    name: "Wrapped ETH",
+    abbr: "WETH",
+    address: "0xA6FA4fB5f76172d178d61B04b0ecd319C5d1C0aa",
   },
 ]
 
